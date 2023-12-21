@@ -4,7 +4,7 @@ Create a README file in your project and write a paragraph about yourself, your 
 so far. Add another one about your professional experience and commercial projects you've been involved with. 
 
 
-## How to submit you solution
+## How to submit your solution
 
 Create a private repository named `jobartis-rails-api` and invite https://github.com/ml to it. 
 
